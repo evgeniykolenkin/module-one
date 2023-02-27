@@ -1,0 +1,83 @@
+body {
+    font-family: 'Manrope', sans-serif;
+    font-weight: 400;
+    width: 100%;
+    background-color: #F5F5F5;
+}
+
+.container {
+    width: 1400px;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+
+}
+
+h1 {
+    width: 956px;
+    height: 120px;
+    font-size: 60px;
+    line-height: 60px;
+    letter-spacing: -0.03em;
+    margin-left: 125px;
+    margin-bottom: 30px;
+}
+
+.introduction {
+    width: 1150px;
+    height: 500px;
+    margin-left: 125px;
+    background-image: url(../resources/room.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.introduction p {
+    width: 460px;
+    height: 81px;
+    padding-top: 379px;
+    padding-left: 40px;
+    color: white;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+h2 {
+    width: 51px;
+    height: 25px;
+    margin-left: 125px;
+    margin-top: 150px;
+    margin-bottom: 30px;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: -0.03em;
+}
+
+.about {
+    margin-right: 224px;
+
+}
+
+.about p {
+    width: 1048px;
+    height: 366px;
+    margin-left: 128px;
+    font-size: 45px;
+    line-height: 62px;
+    letter-spacing: -0.03em;
+}
+
+a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    width: 255px;
+    font-size: 20px;
+    line-height: 67px;
+    margin-left: 125px;
+    margin-top: 30px;
+    padding: 20px, 40px;
+    background-color: #AD1818;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+
